@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A more full relation of the continued successes of His Excellency Sir Thomas Fairfax, at, and since the routing of the enemies forces at Torrington. With a punctuall and perfect list of the names of the cheife commanders, officers and common souldiers, killed, wounded, and taken in the fight and pursuit. The taking of two ships, 10 peices of ordnance, 500 tun of salt, and other provisions, bound for Barnstable and intended for the reliefe of Exeter: with the resolution and proceedings of our army, for a present assault against Barnstable. Also intercepted letters from France, giving intelligence of 8000 foot, 1000 horse, three moneths pay, 10000 l. in bullion in readines to send over to assist the King ag[a]inst the Parliament. And the surprisall of Cardiffe by treachery of the townsmen, and beleaguring of our forces in the castle. Certified by letters to severall members of the Honourable House of Commons on Monday, Feb. 23. 1645. ...</title>
+            <author>W. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78411</idno>
+            <idno type="STC">Wing C159</idno>
+            <idno type="STC">Thomason E325_2</idno>
+            <idno type="STC">ESTC R200619</idno>
+            <idno type="EEBO-CITATION">99861320</idno>
+            <idno type="PROQUEST">99861320</idno>
+            <idno type="VID">113453</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113453)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E325[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A more full relation of the continued successes of His Excellency Sir Thomas Fairfax, at, and since the routing of the enemies forces at Torrington. With a punctuall and perfect list of the names of the cheife commanders, officers and common souldiers, killed, wounded, and taken in the fight and pursuit. The taking of two ships, 10 peices of ordnance, 500 tun of salt, and other provisions, bound for Barnstable and intended for the reliefe of Exeter: with the resolution and proceedings of our army, for a present assault against Barnstable. Also intercepted letters from France, giving intelligence of 8000 foot, 1000 horse, three moneths pay, 10000 l. in bullion in readines to send over to assist the King ag[a]inst the Parliament. And the surprisall of Cardiffe by treachery of the townsmen, and beleaguring of our forces in the castle. Certified by letters to severall members of the Honourable House of Commons on Monday, Feb. 23. 1645. ...</title>
+                  <author>W. C.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Coles in the old Baily,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed on page 3: 18 Feb. 1645. W.C.</note>
+                  <note>Wing has publication year 1645[6]; Thomason catalogue lists under 1646.</note>
+                  <note>In the title, the second "a" in "against" has failed to print.</note>
+                  <note>Annotation on Thomason copy: "feb: 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Torrington (England), Battle of, 1646 --  Early works to 1800.</term>
+               <term>Torrington (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113453:1" rendition="simple:additions"/>
+            <p>A more Full RELATION OF THE CONTINVED SVCCESSES of His Excellency Sir Thomas Fairfax, At, and ſince the Routing of the Enemies Forces at Torrington.</p>
+            <p>With a punctuall and perfect Liſt of the Names of the cheife Commanders, Officers and common Souldiers, killed, wounded, and taken in the fight and purſuit.</p>
+            <p>The taking of two ſhips, 10 peices of Ordnance, 500 Tun of Salt, and other proviſions, bound for <hi>Barnſtable</hi> and intended for the Reliefe of <hi>Exeter:</hi> with the Reſolution and proceedings of our Army, for a preſent aſſault againſt <hi>BARNSTABLE.</hi>
+            </p>
+            <p>Alſo intercepted Letters from <hi>France,</hi> giving intelligence of 8000 Foot, 1000 Horſe, three moneths pay, 10000 l. in Bullion in readines to ſend over to aſſiſt the King againſt the Parliament.</p>
+            <p>And the ſurpriſall of <hi>Cardiffe</hi> by treachery of the Townſmen, and beleaguring of our forces in the Caſtle.</p>
+            <p>CErtified by Letters to ſeverall Members <hi>of the Honourable</hi> Houſe of <hi>Commons</hi> on <hi>Monday, Feb.</hi> 23. 1645. <hi>And Commanded</hi>to be forthwith Printed and Publiſhed.</p>
+            <p>
+               <add>Feb: 24.</add> LONDON, Printed for <hi>Francis Coles</hi> in the old Baily, 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113453:2"/>
+            <pb n="1" facs="tcp:113453:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YEſterday I ſent you an expreſſe of the ſucceſſe which it pleaſed the Almighty to give our forces at Torrington againſt the ſtrength of the Lord <hi>Hoptons,</hi> ſo that of 3000 foot or thereabouts which its credibly informed he brought thither, hee hath not above 400 in a Body, Colonell <hi>Hamond</hi> and divers Officers with him ſhewed much valour in that ſervice, for (having the command of the Generalls Regiment his owne and Col. <hi>Harlowes</hi>) when the foote were beaten out of the Towne twice by the enemies horſe, he brought them back, and repulſed the enemies. The providence of God in that paſſage of the blowing up of the Church is very remarkable, for although the Lead, Timber and Stones of the Church were caſt ſeverall wayes for halfe a mile from the Towne, yet not any Man, Woman or Child was hurt, beſides thoſe blown up in the Church, which now upon credibly information were certified to be neere 200 of the enemies which were priſoners there, every houſe in the Town was ſhaken and ſhattered with the blow, and falling of the Lead and Timber; The Lead fell thick in the ſtreete when the Generall and Lieutenant Generall intered, and an horſe neere the Generall was knockt on the head with a ſheete of Lead, but through Gods mercies he nor any of his at<g ref="char:EOLhyphen"/>tendants had any hurt. This was the Lords doing, and it is mer<g ref="char:EOLhyphen"/>velous in our eyes, And truely Sir, I never ſaw more of God in any part of my life then I have ſince I came into this imployment, an Almighty hand ſtill ordering all things to an unexpected ad<g ref="char:EOLhyphen"/>vantage to this Army as it did, the weather and drawing the enemies
+<pb n="2" facs="tcp:113453:3"/>outgards to ſet forth this ſervice, the particulars whereof I gave you in my former, and ſhall for further ſatisfaction refer you to the Liſt incloſed.</p>
+            <p>Out of Cornewall we have intelligence from the e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to this effect, t<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> on Tu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> laſt th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the en<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>my tooke up guides to Holsworth<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ended <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Lutcombe, and Putford, and to drive their Cattell into Corn<g ref="char:EOLhyphen"/>wall. <hi>Hopton</hi> was then with them, but none of the foote then come up to them, they then reſolved to ſtay at Holſworth to ga<g ref="char:EOLhyphen"/>ther as many foot as they could, and the better to hinder our pur<g ref="char:EOLhyphen"/>ſuite to pull downe Woodford Bridge over Touridge, betweene Newton and Milton where many of their horſe were, many ſtrag<g ref="char:EOLhyphen"/>ling parties went towards Biddiford and Barnſtable in great haſt, and affrightment; The 400 foote which are all they have left (as before with Armes,) Tueſday by breake of day paſſed, over Beddiford bridge in the way to Kilhampton and Stratten ano<g ref="char:EOLhyphen"/>ther party of their horſe, with whom the Lord <hi>Capell</hi> was <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the head, paſſed over at a Ford and went a blinde way for Stratton with his company, there were two conſiderable per<g ref="char:EOLhyphen"/>ſons carried in horſe-litters growning and crying out for paine but not knowing, who they were: Thoſe which came that day from Hetherley ſay, that they met many ſtragling foot by two or three in a company, who ſaid they were going to their own homes, they likewiſe met many ſtraglers of their horſe which poſted up and downe in great haſte and feare; But the chiefe body of their horſe are gone for Launceſton, where the Lord <hi>Hopton</hi> is to meet them. They generally blame the Corniſh foote, ſaying, that if they had ſtood to it, it had beene a more bloudy bout, and that the Corniſh were glad we came againſt that Towne, that they might have an occaſion to go into their owne Countrey. <hi>Hopton</hi> is certainly wounded and had his horſe ſhot under him, ſtaying with the laſt to bring up the Reere. He was extreamely enraged at the Corniſh men, though he had little reaſon for it, for they maintained the Barracadoes, Lines and Hedges at Torrington with as much reſolution as could be expected, and had not our men gone one with extraordinary courage they had bin repulſed, our horſe dayly take ſome of theirs, and bring in Priſoners and
+<pb n="3" facs="tcp:113453:3"/>others with horſes and armes come in dayly, and yelld themſelves to the Generall. This defeate hath ſo diſcipated the enemies Ar<g ref="char:EOLhyphen"/>my in theſe parts, that it is not probable they will ſtand to ano<g ref="char:EOLhyphen"/>ther engagement if they can avoid it, and I hope through God<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bleſſing the cloud of feare, in regard of forraigne forces will <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this meanes be diſperſed and their landing here, or elſewhere prevented. The God of Peace at laſt reſtore ſuch a Peace to our Borders that after all theſe concluſions, and confu<g ref="char:EOLhyphen"/>ſions amongſt us, the deſire of all Nations may come and eſta<g ref="char:EOLhyphen"/>bliſh his Kingdome of Truth, and Peace, amongſt us, ſo prayes and reſts</p>
+            <closer>
+               <salute>Sir</salute> 
+               <signed>Your moſt humble ſervant. <hi>W.C.</hi>
+               </signed> 
+               <dateline>
+                  <date>18 Feb. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>This evening Letters are come to the Generall of the ſurpriſall of Cardiffe Towne by the treacherous Townſmen and Country, and the beleaguring of our Forces in the Caſtle, which I doubt not you have already. Col. <hi>Cooks</hi> brigade is come neere Barnſtable, and keeps guard within a mile on the Eaſt ſide. I could wiſh they would behave themſelves better in theſe parts then they have done in o<g ref="char:EOLhyphen"/>thers, where they have done as much miſchief to the County, as the enemy, by robbing any of our ſouldiers they met with upon all ad<g ref="char:EOLhyphen"/>vantages, crying, you are New modell men, that have money. It were wel that they either had pay, were regulated, or many of them diſmounted for the ſervice they doe. Col. <hi>Forteſcues</hi> Regiment is in the Earle of <hi>Bathes</hi> houſe at N. Tunſton in the Weſt, and other guards of horſe are kept neere the Town. Major Gen. <hi>Skippons</hi>
+               <pb n="4" facs="tcp:113453:4"/>Regiment is neere us. The Generall after ſome ſhort refreſhment of the Army, after their readious marches, reſpecting the weather, miſerable quarters, and hard ſervice, will make ſome attempt upon Barnſtable; in the meane time our horſe are advanced in parties within a mile of Cornwall, to drive the enemy as cloſe as may be. Captain <hi>Keyman</hi> hath bourded two ſhips with Ten pieces of Ordnance, that were comming with 500 tun of Salt to Barn<g ref="char:EOLhyphen"/>ſtable, between Apledore and Bidiford. We finde by ſome of the L. <hi>Hoptons</hi> Letters it was in part for the ſupply of the Army, and much of it, if poſſible to be ſent for Exceter, As alſo the Powder and Ammunition they had in their Magazine in Torington Church. One of the priſoners that was taken in the Church with a Match in his hand, almoſt dead with the falling of the ſtones, though he had an hole or vault to runne into after he had layd the traine, upon examination confeſſeth, he was to have had 30 li. for doing it; his name is <hi>Robert Wats</hi> a North-countrey-man, hee died this day. The Generall is this afternoone returned to Mr. <hi>Rolls</hi> his houſe. Col. <hi>Ingelsbies</hi> Regiment of foot is at Toringtor. The enemies forces are now wholly gone into Cornwall. Sir <hi>John Greenvile</hi> was comming up thence with 500 foot to the L. <hi>Hopton,</hi> and 40 horſe laden with Ammunition, but hearing of the defeat ſtayed his journey, and came no further then Launceſton.</p>
+            <p>This day there came one from Truro, who certifies the Generall that Sir <hi>Walter Dudley</hi> came lately from France, to enform: thoſe about the Prince, that in caſe of eminent neceſſity they can upon a faire winde ſend over their men by the middle of the next month, they have neere 8000 foot, and 1000 horſe in readineſſe, and three moneths pay providing, beſides 10000 li. in Bullion daily expected, a Mint ready to coyne the ſame; only they deſire if poſſibly a larger time to bring them over. Sir <hi>John Culpepper</hi> was to goe over into France on Friday laſt to haſten them. This will cauſe his Excel<g ref="char:EOLhyphen"/>lency to expedite his intentions for Cornwall, and prevent their deſigne through Gods bleſſing,</p>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="5" facs="tcp:113453:4"/>
+            <head>A Liſt of the Priſoners taken at Torrington, Munday February 16. 1645.</head>
+            <list>
+               <item>LIeut. Col. <hi>Wood</hi>
+               </item>
+               <item>Cap. <hi>Prideaux</hi>
+               </item>
+               <item>Cap. <hi>Cowley</hi>
+               </item>
+               <item>Cap. <hi>Bowne</hi> of horſe</item>
+               <item>Cap. <hi>Minn</hi>
+               </item>
+               <item>Cap. <hi>Naunt</hi>
+               </item>
+               <item>Cap. <hi>Bennit</hi>
+               </item>
+               <item>Cap. <hi>Moulins</hi>
+               </item>
+               <item>Cap. <hi>Weekes</hi>
+               </item>
+               <item>Comiſſary <hi>Bovey</hi>
+               </item>
+               <item>Lieutenant <hi>Stoakes</hi>
+               </item>
+               <item>Lieut. <hi>Kirton</hi>
+               </item>
+               <item>Lieut. <hi>Morris</hi>
+               </item>
+               <item>Lieut. <hi>Greene</hi>
+               </item>
+               <item>Lieut. <hi>Maſon</hi> of horſe</item>
+               <item>Lieut. <hi>Goring</hi>
+               </item>
+               <item>Coronet <hi>Wells</hi>
+               </item>
+               <item>Enſigne <hi>Feilding</hi>
+               </item>
+               <item>Enſigne <hi>Huggins</hi>
+               </item>
+               <item>Enſigne <hi>Williams</hi>
+               </item>
+               <item>
+                  <hi>Allen Mack-Mulen</hi> Chirurg.</item>
+               <item>Sergeant <hi>Boſwell</hi>
+               </item>
+               <item>Sergeant <hi>Trevor</hi>
+               </item>
+               <item>Sergeant <hi>Peuwelly</hi>
+               </item>
+               <item>Sergeant <hi>Sheffeild</hi>
+               </item>
+               <item>
+                  <hi>Thomas Cooke</hi> Servant to the L. <hi>Hopton.</hi>
+               </item>
+               <item ana="#role_TOTAL">Totall 26</item>
+            </list>
+            <list>
+               <head>Troopers</head>
+               <item>of the L. <hi>Go<g ref="char:EOLhyphen"/>rings</hi> Lifeguard 21</item>
+               <item>Of <hi>Culpeppers</hi> 7</item>
+               <item>Of Col. <hi>Stukeleys</hi> 3</item>
+               <item>Of Col. <hi>Webbs</hi> 2</item>
+               <item>Of Col. <hi>Huninghams</hi> 2</item>
+               <item>Of Col. <hi>Slingsbies</hi> 2</item>
+               <item>Of Col. <hi>Hoptons</hi> 2</item>
+               <item>Of Col. <hi>Hoopers</hi> 3</item>
+               <item>Of L. <hi>Clevelands</hi> 2</item>
+               <item>Of Col. <hi>Criſpes</hi> 1</item>
+               <item>Of Col. <hi>Gettings</hi> 2</item>
+               <item>L. <hi>Capels</hi> Servants 5</item>
+               <item ana="#role_TOTAL">Totall 52</item>
+            </list>
+            <list>
+               <head>Gentlemen.</head>
+               <item>Of the Princes Life<g ref="char:EOLhyphen"/>guard 68</item>
+               <item>Col. <hi>Arundels</hi> 5</item>
+               <item>Col. <hi>Trevanians</hi> 5</item>
+               <pb n="6" facs="tcp:113453:5"/>
+               <item> Col. <hi>Champernoons</hi> 1</item>
+               <item>Col. <hi>Collers</hi> 8</item>
+               <item>Col. <hi>Wiſes Welch</hi> 10</item>
+               <item>Col. <hi>Shelleys</hi> 9</item>
+               <item>Col. <hi>Tremaynes</hi> 14</item>
+               <item>Col. <hi>Slaug<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Horſe drivels 33</item>
+               <item ana="#role_TOTAL">Totall 126</item>
+            </list>
+            <list>
+               <item>ABout 200 which are not ſet downe. In all 433 Whereof 200 have taken up Armes, being (as they ſaid) forced in by the Enemy.</item>
+               <item>Neere 3000 Armes, broken and whole, moſt of their Ammunition blown up in the Church.</item>
+               <item>Beſides theſe 200 blowne up in the Church, in all 600</item>
+               <item>Eight Colours already brought in whereof one the Lord <hi>Hoptons</hi> owne, with this Motto, <hi>I will ſtrive to ſerve my Soveraigne King.</hi>
+               </item>
+               <item>Slaine Major <hi>Threaue,</hi> Cap. <hi>Frye,</hi> and divers Officers and Souldiers, the certaine number not knowne, ſuppoſed to be about 100</item>
+               <item>The Lord <hi>Hopton,</hi> and L. <hi>Capell</hi> wounded; beſides drivers others of quality.</item>
+               <item>The Lord <hi>Hoptons</hi> Commiſſion to be Generall under the Prince;</item>
+               <item>Sir <hi>John Digbies</hi> Commiſſion to be Governour of the Forces before Plymouth, and other papers of conſe<g ref="char:EOLhyphen"/>quence taken.</item>
+               <item>The L. <hi>Hoptons</hi> Fur-coat, and about 400 or 500 h<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> money left behind at his quarters, with much plun<g ref="char:EOLhyphen"/>der left in Portmantles, and in other places behind them.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113453:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
